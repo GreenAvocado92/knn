@@ -1,2 +1,2 @@
 # knn
-search knn
+search knn based CGAL kdtree
